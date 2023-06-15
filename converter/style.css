@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.root{
+    background-color: rgb(114, 131, 227);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    line-height: 7vh;
+    font-size: 4vh;
+}
+
+.app{
+    padding-bottom: 120px;
+}
+
+.input{
+    margin-top: 3vh;
+    margin-bottom: 4vh;
+    width: 50%;
+    font-size: 5vh;
+}
+
+.select{
+    margin-left: 5%;
+}
